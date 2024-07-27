@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/1DAOqDZ.png" height="80%" width="80%" alt="Enable IIS Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To install the ticketing system first the IIS (internet information services) must be enables from within Windows features, then under IIS the CGI (Common Gateway Interface) and common HTTP features must be enabled. CGI is a standard protocol used to enable web servers, such as IIS, to execute external programs, scripts, and generate dynamic content for web pages. The common HTTP features help manage web traffic, enhance security, and improve the functionality of a web server.
 </p>
 <br />
 
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/PSk8Jlt.png" height="80%" width="80%" alt="Configure IIS Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Then after downloading the required software IIS needs to be configured to install and launch the ticketing software, one of the software packages required was PHP manager, after downloading, it must be registered within IIS by providing a path to the executable "php-cgi.exe."
 </p>
 <br />
 
@@ -47,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/bixFBKY.png" height="80%" width="80%" alt="Install and enable software for OsTicket"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The next step is to download OsTicket itself, after the installation is complete certain features are recommended to enable so that all the features of the software can be utilized. This is done within PHP Manager in the "enable or disable an extension" settings.
 </p>
 <br />
 
@@ -56,6 +56,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/lGZhOoM.png" height="80%" width="80%" alt="Install SQL database sotware to enable OsTicket"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The next step is to install and connect Heidi SQL which is used to make it easier to interact with the MySQL server, which was another required software used to create the ticketing system.
 </p>
 <br />
