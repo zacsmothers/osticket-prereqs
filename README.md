@@ -7,7 +7,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/)
 - Remote Desktop
 - Internet Information Services (IIS)
 
@@ -25,6 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Picture and Description</h2>
 
 <p>
+<h3>Enable IIS in Windows VM with CGI and common HTTP features</h3>
 <img src="https://i.imgur.com/1DAOqDZ.png" height="80%" width="80%" alt="Enable IIS Steps"/>
 </p>
 <p>
@@ -33,6 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+<h3>Configure IIS in Windows VM</h3>
 <img src="https://i.imgur.com/PSk8Jlt.png" height="80%" width="80%" alt="Configure IIS Steps"/>
 </p>
 <p>
@@ -41,6 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+<h3>Install and enable software for OsTicket</h3>
 <img src="https://i.imgur.com/bixFBKY.png" height="80%" width="80%" alt="Install and enable software for OsTicket"/>
 </p>
 <p>
@@ -49,6 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+<h3>Install SQL database sotware to enable OsTicket</h3>
 <img src="https://i.imgur.com/lGZhOoM.png" height="80%" width="80%" alt="Install SQL database sotware to enable OsTicket"/>
 </p>
 <p>
