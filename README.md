@@ -2,25 +2,25 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Installation NOT COMPLETE</h1>
+<h1>OsTicket - Installation NOT COMPLETE</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/)
+- Microsoft Azure (Virtual Machines)
 - Remote Desktop
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b>
 
 <h2>Installation Steps</h2>
 
-- Step 1 - Enable IIS in Windows VM with CGI and common HTTP features.
-- Step 2 - Configure IIS in Windows VM.
-- Step 3 - Install and enable software for OsTicket.
-- Step 4 - Install SQL database sotware to enable OsTicket.
+- Step 1 - Enable IIS in Windows VM with CGI and common HTTP features
+- Step 2 - Configure IIS in Windows VM
+- Step 3 - Install and enable software for OsTicket
+- Step 4 - Install SQL database sotware to enable OsTicket
 
 <h2>Picture and Description</h2>
 
